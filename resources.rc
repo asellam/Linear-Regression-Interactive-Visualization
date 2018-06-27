@@ -1,0 +1,4 @@
+#define APPMANIFEST 1
+#define RT_MANIFEST 24
+aaMainIcon ICON "logo.ico"
+APPMANIFEST RT_MANIFEST "Application.manifest"

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1446667738 source:d:\phd\understanding\linearregression\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1530060667 source:d:\phd\understanding\linearregression\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<gl/gl.h>
+	"WinStuff.h"
+
+1530040898 d:\phd\understanding\linearregression\subclass.h
+
+1529626765 source:d:\phd\understanding\linearregression\resources.rc
+
+1530060785 d:\phd\understanding\linearregression\winstuff.h
+
